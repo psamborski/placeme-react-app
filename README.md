@@ -24,7 +24,7 @@
 
 #### Required dependencies: 
 - [Git](https://git-scm.com/downloads)
-- [Node&NPM](https://nodejs.org/en/download/)
+- [Node and NPM](https://nodejs.org/en/download/)
 
 #### Installation:
 <ol>
